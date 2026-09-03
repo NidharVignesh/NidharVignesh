@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Nidharshan 👋
 
-<!--
-**NidharVignesh/NidharVignesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science and Engineering Undergraduate at the **University of Moratuwa, Sri Lanka**.
 
-Here are some ideas to get you started:
+I'm interested in building things across **Software Engineering, Robotics, Embedded Systems, and IoT**. I enjoy learning new technologies and working on projects that connect software with the real world.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Interests
+
+* Software Engineering
+* Robotics & Embedded Systems
+* IoT
+* Artificial Intelligence & Machine Learning
+* Backend & Web Development
+* Computer Systems
+
+### Technologies
+
+**Languages:** Python, C, C++, Java, JavaScript, TypeScript, SQL
+**Web:** React, Node.js
+**Systems & Tools:** Linux, Git, Docker
+**Hardware & Robotics:** ESP32, Raspberry Pi, ROS 2
+
+### Currently
+
+Exploring **Robotics, Embedded Systems, Reinforcement Learning, and scalable software systems**.
+
+I enjoy learning by building — from software applications to systems that interact with the physical world.
+
+---
+
+### Connect with me
+
+[LinkedIn](YOUR_LINKEDIN) · [Email](YOUR_EMAIL)
