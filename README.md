@@ -2,9 +2,9 @@
 
 Computer Science and Engineering Undergraduate at the **University of Moratuwa, Sri Lanka**.
 
-I'm interested in building things across **Software Engineering, Robotics, Embedded Systems, and IoT**. I enjoy learning new technologies and working on projects that connect software with the real world.
+I'm interested in building things across **Software Engineering, Robotics 🤖, Embedded Systems, and IoT** 👾. I enjoy learning new technologies and working on projects that connect software with the real world.
 
-### Interests
+### Interests 🔍
 
 * Software Engineering
 * Robotics & Embedded Systems
@@ -13,21 +13,22 @@ I'm interested in building things across **Software Engineering, Robotics, Embed
 * Backend & Web Development
 * Computer Systems
 
-### Technologies
+### Technologies 👀
 
 **Languages:** Python, C, C++, Java, JavaScript, TypeScript, SQL
 **Web:** React, Node.js
 **Systems & Tools:** Linux, Git, Docker
 **Hardware & Robotics:** ESP32, Raspberry Pi, ROS 2
 
-### Currently
+### Currently . . . 🚶‍♀️
 
 Exploring **Robotics, Embedded Systems, Reinforcement Learning, and scalable software systems**.
 
-I enjoy learning by building — from software applications to systems that interact with the physical world.
+I enjoy learning by building from software applications to systems that interact with the physical world.
 
 ---
 
-### Connect with me
+### Connect with me 
 
-[LinkedIn](https://www.linkedin.com/in/nidharshan-vigneshwaram-1a4749359/) · [Email](nidharshanv.23@cse.mrt.ac.lk)
+I'm here . . . 
+[In][LinkedIn](https://www.linkedin.com/in/nidharshan-vigneshwaram-1a4749359/) | 📩[Email](nidharshanv.23@cse.mrt.ac.lk) | 🌐 (www.nidharshan.dev) 
