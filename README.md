@@ -31,4 +31,4 @@ I enjoy learning by building from software applications to systems that interact
 ### Connect with me 
 
 I'm here . . . 
-[In][LinkedIn](https://www.linkedin.com/in/nidharshan-vigneshwaram-1a4749359/) | 📩[Email](nidharshanv.23@cse.mrt.ac.lk) | 🌐 (www.nidharshan.dev) 
+[In][LinkedIn](https://www.linkedin.com/in/nidharshan-vigneshwaram-1a4749359/) | 📩[Email](nidharshanv.23@cse.mrt.ac.lk) | 🌐 [@me](www.nidharshan.dev) 
