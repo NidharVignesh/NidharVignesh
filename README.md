@@ -30,4 +30,4 @@ I enjoy learning by building — from software applications to systems that inte
 
 ### Connect with me
 
-[LinkedIn](YOUR_LINKEDIN) · [Email](YOUR_EMAIL)
+[LinkedIn](https://www.linkedin.com/in/nidharshan-vigneshwaram-1a4749359/) · [Email](nidharshanv.23@cse.mrt.ac.lk)
