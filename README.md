@@ -13,12 +13,17 @@ I'm interested in building things across **Software Engineering, Robotics 🤖, 
 * Backend & Web Development
 * Computer Systems
 
-### Technologies 👀
+### Technologies & Skills 🛠️
 
-**Languages:** Python, C, C++, Java, JavaScript, TypeScript, SQL
-**Web:** React, Node.js
-**Systems & Tools:** Linux, Git, Docker
-**Hardware & Robotics:** ESP32, Raspberry Pi, ROS 2
+*   **Languages:** Python, C, C++, Java, JavaScript, TypeScript, SQL, PHP, VHDL
+*   **Backend & Frameworks:** NestJS, Laravel, Ballerina (microservices)
+*   **Frontend Development:** React, Next.js
+*   **Databases & ORMs:** PostgreSQL, MongoDB, Prisma ORM, SQLite
+*   **AI/ML & Data Engineering:** Machine Learning, Reinforcement Learning (RL), Data Ingestion & Pipelines
+*   **IoT & Embedded Systems:** ESP32, Arduino, FPGA Development, Hardware Communication Protocols
+*   **Robotics & Hardware:** Raspberry Pi, ROS 2, RViz, Gazebo, MuJoCo
+*   **Systems & Tools:** Linux, Git, Docker, Figma, Thonny IDE
+
 
 ### Currently . . . 🚶‍♀️
 
@@ -30,5 +35,5 @@ I enjoy learning by building from software applications to systems that interact
 
 ### Connect with me 
 
-I'm here . . . 
+I'm here . . .   
 [In][LinkedIn](https://www.linkedin.com/in/nidharshan-vigneshwaram-1a4749359/) | 📩[Email](nidharshanv.23@cse.mrt.ac.lk) | 🌐 [@me](www.nidharshan.dev) 
